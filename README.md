@@ -1,10 +1,10 @@
 <h1 align="center"> Amigo Secreto </h1>
 <h4 align="center">
-:construction: Proyecto en construcción :construction:
+:construction: Versión 1 :construction:
 </h4>
 
 ## 🚀 Descripción del proyecto
-La aplicación permitirá a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y definir quién es el "amigo secreto".
+La aplicación permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y definir quién es el "amigo secreto".
 
 ## :hammer: Funcionalidades de la aplicación:
 - Agregar nombres: los usuarios escribirán el nombre de un amigo en un campo de texto y, presionando el botón "Adicionar", el mismo se agregará a una lista visible en la página.
